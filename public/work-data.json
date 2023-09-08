@@ -1,0 +1,100 @@
+[
+    {
+        "id": "lcml",
+        "title": "Islamic Calligraphy",
+        "details": {
+            "description": "Islamic and Arabic Calligraphy with English translation. Quran Chapter 20 Verse 25-26. Suitable",
+            "summary": "Calligraphy"
+        },
+        "date": "April 2022",
+        "roles": [
+            "Calligraphy Artist"
+        ],
+        "links": [
+            {
+
+            }
+        ]
+    },
+    {
+        "id": "v1",
+        "title": "English Calligraphy",
+        "details": {
+            "description": "Allah chooses for His mercy whomsoever He wills.",
+            "summary": "Calligraphy"
+        },
+        "date": "May 2021",
+        "roles": [
+            "Calligraphy Artist"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://v1.musabhassan.com"
+            }
+        ]
+    },
+    {
+        "id": "kic",
+        "title": "Islamic Calligraphy",
+        "details": {
+            "description": "Surah Falaq Leaf Drop سورة الفلق Arabic Calligraphy",
+            "summary": "Calligraphy"
+        },
+        "date": "July 2019",
+        "roles": [
+            "Calligraphy Artist"
+        ],
+        "links": [
+            {
+                "type": "android",
+                "text": "View on Google Play",
+                "link": "https://play.google.com/store/apps/details?id=com.kelownamasjid.android.app"
+            },
+            {
+                "type": "ios",
+                "text": "View on App Store",
+                "link": "https://apps.apple.com/us/app/kelowna-islamic-center/id1479503537?ls=1"
+            }
+        ]
+    },
+    {
+        "id": "grillzzy",
+        "title": "English Typography",
+        "details": {
+            "description": "It's the Little Things in Life",
+            "summary": "Typography"
+        },
+        "date": "Nov 2020",
+        "roles": [
+            "Calligraphy Artist"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://grillzzy.com"
+            }
+        ]
+    },
+    {
+        "id": "slickscroll",
+        "title": "Islamic Calligraphy",
+        "details": {
+            "description": "Ayat Al-Kursi, Ayatul Kursi, The Throne, Arabic Calligraphy",
+            "summary": "Calligraphy"
+        },
+        "date": "March 2021",
+        "roles": [
+            "Calligraphy Artist"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "View on Github",
+                "link": "https://github.com/Musab-Hassan/slickscroll"
+            }
+        ]
+    }
+]
