@@ -159,6 +159,7 @@ function section2IntroAnimations() {
 					in:maskSlideIn={{ delay: 900 }}>
 					<!-- <img src="assets/imgs/svg-icons/illustrator.svg" alt="adobe illustrator">
 					<img src="assets/imgs/svg-icons/xd.svg" alt="adobe xd"> -->
+					<!-- i have change this form 5vw to 0vw on line 243 -->
 				</div>
 			</li>
 		</ul>
@@ -239,7 +240,7 @@ function section2IntroAnimations() {
 			@media only screen and (max-width: 750px)
 				&
 					width: 100%
-					margin-left: 5vw
+					margin-left: 0vw
 
 			&::before
 				content: ""
