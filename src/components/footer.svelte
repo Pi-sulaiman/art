@@ -105,7 +105,7 @@ async function introAnimations() {
         <div class="credits-wrapper" bind:this={creditsElem}>
             <p class="year">© {currentYear}</p>
             <p class="credits">
-                D   esigned and developed by Sulaiman<br>Hi There
+                Designed and developed by Sulaiman<br>Hi There
             </p>
         </div>
     </div>
