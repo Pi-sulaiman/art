@@ -41,7 +41,7 @@ function introAnimations() {
 	});
 	path2.animate(animation, {
 		duration: 1000,
-		delay: 1500,
+		delay: 1300,
 		easing: 'cubic-bezier(.47,.41,.26,1)',
 		fill: 'forwards' 
 	});
@@ -336,13 +336,13 @@ function introAnimations() {
 
 #signature
 	.path-1
-		stroke-dashoffset: 550
-		stroke-dasharray: 550
+		stroke-dashoffset: 314
+		stroke-dasharray: 314
 
 	
 	.path-2
-		stroke-dasharray: 314
-		stroke-dashoffset: 314
+		stroke-dasharray: 550
+		stroke-dashoffset: 550
 
 	.path-3
 		stroke-dasharray: 45
