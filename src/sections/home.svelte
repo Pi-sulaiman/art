@@ -287,6 +287,7 @@ function introAnimations() {
 @media only screen and (min-width: 1250px)
 	.h-signature
 		display: block
+		
 
 	.occupation
 		width: 100%
@@ -294,17 +295,25 @@ function introAnimations() {
 	#content-container .flex *
 		text-align: left
 
+
 @media only screen and (max-width: 1250px)
 	#content-container .flex *
 		text-align: left
-
+		#signature
+			position: absolute
+			bottom: -20px
+			left: 26vw
+			width: 23vh
+			margin-left: 0vh
+			transform: rotate(342deg)
 	.flex
 		justify-content: center !important
 		width: 100% !important
 
 		.flex-wrapper 
 			&.first
-				display: none !important
+				//display: none !important
+				
 
 			&.second
 				justify-content: center !important
@@ -325,8 +334,9 @@ function introAnimations() {
 
 #signature
 	.path-1
-		stroke-dasharray: 550
 		stroke-dashoffset: 550
+		stroke-dasharray: 550
+
 	
 	.path-2
 		stroke-dasharray: 314

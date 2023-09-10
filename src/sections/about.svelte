@@ -194,12 +194,19 @@ function section2IntroAnimations() {
 	position: relative
 	padding-bottom: 5vh
 
+	@media only screen and (max-width: 750px)
+		&
+		flex-direction: column-reverse
+
 	.profile-image
 		width: 70%
 		overflow: hidden
 		margin-top: -30vh
 		position: relative
 
+		@media only screen and (max-width: 750px)
+			&
+			width: 100%
 		img
 			height: 80%
 			width: 90%
@@ -222,6 +229,7 @@ function section2IntroAnimations() {
 		@media only screen and (max-width: 750px)
 			&
 				width: 80%
+				margin-top: 35vh
 
 				h1
 					font-size: 25vw !important
@@ -270,9 +278,9 @@ function section2IntroAnimations() {
 		.right-container
 			margin-top: 3vh
 			justify-content: flex-start !important
-
+	
 		.profile-image
-			display: none
+			//display: none
 
 .horizontal-flex
 	display: flex
