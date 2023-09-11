@@ -135,7 +135,7 @@ function introAnimations() {
 						<div class="word" bind:this={titleWord1}>Almas</div>
 					</div><br> 
 					<div class="title-mask">
-						<div class="word" bind:this={titleWord2}>Farhima</div>
+						<div class="word" bind:this={titleWord2}>Fathima</div>
 					</div>
 				</h1>
 				<div class="occupation mask">
