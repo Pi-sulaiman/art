@@ -107,6 +107,7 @@
                 <p class="credits">
                     Designed and developed by Sulaiman<br>Hi There
                 </p>
+                <img style="display: none;" src="https://moe-counter.glitch.me/get/@almas" alt="">
             </div>
         </div>
     
