@@ -4,6 +4,7 @@ import slickScroll from "slickscrolljs";
 import { onMount } from "svelte";
 import { imgPromises, loaderAnimationPromise, loadPageResolve, slickScrollInstance, workItemsFetch } from "./store";
 import HomeSection from "./sections/home.svelte";
+// import BDay from "./components/b-day.svelte";
 import WorkSection from "./sections/work.svelte";
 import AboutSection from "./sections/about.svelte";
 import NavComponent from "./components/nav.svelte"
@@ -59,7 +60,9 @@ onMount(async () => {
 		<NavComponent scrollContainer={scrollContainer}></NavComponent>
 	</div>
 	<!-- page sections -->
+
 	<HomeSection></HomeSection>
+	<!-- <BDay></BDay> -->
 	<WorkSection></WorkSection>
 	<AboutSection></AboutSection>
 	<Footer></Footer>
