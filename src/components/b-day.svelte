@@ -95,7 +95,7 @@
     initConfetti();
     render();
 
-    window.addEventListener('resize', resizeCanvas);
+    // window.addEventListener('resize', resizeCanvas);
     window.addEventListener('click', initConfetti);
   });
 </script>
