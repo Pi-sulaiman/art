@@ -148,6 +148,8 @@
         padding: 15vh 13vw
         margin-top: 25vh
         box-sizing: border-box
+        position: absolute
+        z-index: 99999
     
         @media only screen and (max-width: 950px)
             .flex-wrapper.decor

@@ -90,7 +90,7 @@
     canvas = document.getElementById('canvas');
     ctx = canvas.getContext('2d');
     canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    canvas.height = window.innerHeight * 4.5;
 
     initConfetti();
     render();
